@@ -1,0 +1,13 @@
+body {
+  .nx-text-slate-900 {
+    --tw-text-opacity: 1;
+    color: hsl(var(--nextra-primary-hue) 100% 45% / var(--tw-text-opacity));
+    font-weight: 700;
+  }
+}
+
+@media (min-width: 768px) {
+  .nextra-sidebar-container {
+    width: 22em !important;
+  }
+}
