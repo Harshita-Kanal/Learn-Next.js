@@ -11,6 +11,15 @@ const config: DocsThemeConfig = {
   footer: {
     text: "Nextra Docs Template",
   },
+
+  head: function useHead() {
+    return (
+      <>
+        <title>Harshita Kanal</title>
+        <link rel="icon" href="/assets/logo.svg" type="image/svg+xml" />
+      </>
+    );
+  },
   darkMode: true,
   primaryHue: { light: 330, dark: 196 },
   feedback: { content: null },

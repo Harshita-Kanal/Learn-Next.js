@@ -20,9 +20,7 @@
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://www.linkedin.com/in/harshita-kanal-400563166/",
-    "newWindow": true
+    "title": "Contact me",
+    "type": "page"
   }
 }
