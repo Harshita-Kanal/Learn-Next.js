@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
 
   docsRepositoryBase: "https://github.com/Harshita-Kanal",
   footer: {
-    text: "Nextra Docs Template",
+    text: "Made with ❤️ using Next and Nextra",
   },
 
   head: function useHead() {
